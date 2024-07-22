@@ -1,2 +1,2 @@
 # project1
-THis project is related to socket programming
+This project is related to socket programming.
